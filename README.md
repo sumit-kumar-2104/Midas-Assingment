@@ -26,3 +26,12 @@ Metrics of Comparison:
 | EfficientDet | 0.8056    | 0.4667    | 0.7333    | 0.4330      |
 
 *TBD: Metrics for Faster R-CNN are yet to be computed.*
+
+
+
+
+| Metric         | YOLOv8      | Faster R-CNN  | SSD         | EfficientDet  |
+|---------------|------------|--------------|------------|--------------|
+| Speed (FPS)    |  Very Fast |  Slow      |  Fast    |  Medium    |
+
+
